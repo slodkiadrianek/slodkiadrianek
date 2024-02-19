@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning javascript
   My skills:
- [![My Skills](https://skillicons.dev/icons?i=js,html,csss,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!---
