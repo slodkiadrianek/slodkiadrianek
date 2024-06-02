@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slodkiadrianek
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning javascript and Node.js
-# My Languages:
+# My Languages
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb)](https://skillicons.dev)
 
