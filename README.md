@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and Node.js
 # My Languages
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 # Tools I use
 
