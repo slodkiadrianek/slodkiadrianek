@@ -7,7 +7,7 @@
 
 # Tools I use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,npm,windows,postman	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,npm,windows,postman,linux,raspberrypi	)](https://skillicons.dev)
 
 
 <!---
