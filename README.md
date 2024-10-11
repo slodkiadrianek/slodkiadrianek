@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slodkiadrianek
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning javascript and Node.js
+- 👀 I’m interested in back-end
+- 🌱 I’m currently learning typescript and Node.js
 # My Languages
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,mongodb,mysql)](https://skillicons.dev)
