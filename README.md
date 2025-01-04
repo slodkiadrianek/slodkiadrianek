@@ -1,14 +1,25 @@
 - 👋 Hi, I’m @slodkiadrianek
-- 👀 I’m interested in back-end
+- 👀 I’m interested in backend
 - 🌱 I’m currently learning typescript and Node.js
-# My Languages
+# My Languages and frameworks
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express)](https://skillicons.dev)
 
-# Tools I use
+# Databases and ORMs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,npm,windows,postman,linux,raspberrypi,prisma	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,prisma)](https://skillicons.dev)
 
+# Package managers
+
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
+# Code editors
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,webstorm)](https://skillicons.dev)
+
+# Operating systems
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,	)](https://skillicons.dev)
 
 <!---
 slodkiadrianek/slodkiadrianek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
