@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning typescript and Node.js
 # My Languages and frameworks
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,php)](https://skillicons.dev)
 
 # Databases and ORMs
 
