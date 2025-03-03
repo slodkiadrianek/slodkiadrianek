@@ -9,6 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,prisma)](https://skillicons.dev)
 
+# Testing tools
+
+[![My Skills](https://skillicons.dev/icons?i=vite,jest,postman)](https://skillicons.dev)
+
 # Package managers
 
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
