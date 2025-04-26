@@ -11,7 +11,7 @@
 
 # Testing tools
 
-[![My Skills](https://skillicons.dev/icons?i=vite,jest,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitetest,jest,postman)](https://skillicons.dev)
 
 # Package managers
 
